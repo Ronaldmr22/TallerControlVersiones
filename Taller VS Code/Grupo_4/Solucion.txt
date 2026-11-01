@@ -1,0 +1,12 @@
+SOLUCIÓN - GRUPO 4: Búsqueda
+
+¿Qué está mal?
+La lista tiene nombres con mayúsculas y la comparación distingue mayúsculas.
+
+Busca la línea incorrecta en programa.py y reemplázala por:
+if nombre.lower() in [p.lower() for p in participantes]:
+
+Cómo comprobarlo:
+Buscar ana o ANA debe encontrar a Ana.
+
+IMPORTANTE: Este archivo es una ayuda. No lo borren; inclúyanlo junto con los demás cambios en el commit.

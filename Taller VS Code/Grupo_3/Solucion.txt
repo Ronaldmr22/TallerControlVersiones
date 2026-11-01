@@ -1,0 +1,12 @@
+SOLUCIÓN - GRUPO 3: Inventario
+
+¿Qué está mal?
+La condición para autorizar una venta está al revés.
+
+Busca la línea incorrecta en programa.py y reemplázala por:
+if cantidad <= stock:
+
+Cómo comprobarlo:
+Con stock 8: solicitar 3 autoriza; solicitar 9 rechaza.
+
+IMPORTANTE: Este archivo es una ayuda. No lo borren; inclúyanlo junto con los demás cambios en el commit.
