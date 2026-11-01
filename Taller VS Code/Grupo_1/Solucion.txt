@@ -1,0 +1,12 @@
+SOLUCIÓN - GRUPO 1: Descuento
+
+¿Qué está mal?
+El porcentaje debe dividirse entre 100.
+
+Busca la línea incorrecta en programa.py y reemplázala por:
+precio_final = precio - (precio * descuento / 100)
+
+Cómo comprobarlo:
+Precio 100, descuento 20: resultado 80.00
+
+IMPORTANTE: Este archivo es una ayuda. No lo borren; inclúyanlo junto con los demás cambios en el commit.

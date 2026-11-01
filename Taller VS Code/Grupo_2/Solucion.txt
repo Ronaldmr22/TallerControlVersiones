@@ -1,0 +1,12 @@
+SOLUCIÓN - GRUPO 2: Promedio
+
+¿Qué está mal?
+Se suman tres notas, pero se divide entre 2.
+
+Busca la línea incorrecta en programa.py y reemplázala por:
+promedio = suma / len(notas)
+
+Cómo comprobarlo:
+Con 80, 90 y 70: promedio 80.00
+
+IMPORTANTE: Este archivo es una ayuda. No lo borren; inclúyanlo junto con los demás cambios en el commit.
