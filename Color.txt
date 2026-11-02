@@ -1,1 +1,1 @@
-Color del fondo: Sin color establecido.
+Color del fondo: Rojo.
