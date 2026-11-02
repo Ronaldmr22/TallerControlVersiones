@@ -2,4 +2,4 @@ Versión 1.0 del videojuego.
 Estado: Funcional y publicada.
 
 Versión 1.1 del videojuego.
-Estado: En desarrollo.
+Estado: prueba 2 del conflicto
