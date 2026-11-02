@@ -1,1 +1,1 @@
-Color del fondo: Azul.
+Color del fondo: Rojo.
