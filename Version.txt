@@ -1,2 +1,2 @@
-Versión 1.0 del videojuego
-Estado: Funcional y publicada
+Versión 1.0 del videojuego.
+Estado: Funcional y publicada.
