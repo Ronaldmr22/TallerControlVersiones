@@ -3,3 +3,6 @@ Estado: Funcional y publicada.
 
 Versión 1.1 del videojuego.
 Estado: En desarrollo.
+
+Nueva funcionalidad: Sistema de disparo.
+Estado: En desarrollo.
