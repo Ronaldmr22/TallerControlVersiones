@@ -1,5 +1,5 @@
 producto = "Cuaderno"
-precio = 1500
+precio = 4500
 cantidad = 3
 presupuesto = 5000
 
