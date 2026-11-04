@@ -1,1 +1,1 @@
-Color del fondo: Implementar Rojo.
+Color del fondo: Cambiar al color rojo.
