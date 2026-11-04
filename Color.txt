@@ -1,1 +1,1 @@
-Color del fondo: Sin definir.
+Color del fondo: Cambiar al color rojo.
