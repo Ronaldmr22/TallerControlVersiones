@@ -4,6 +4,8 @@ def sumar(a, b):
 def restar(a, b):
     return a - b
 
+#Multiplicacion
+
 print("=== CALCULADORA ===")
 print("1. Sumar")
 print("2. Restar")
